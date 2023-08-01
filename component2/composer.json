@@ -1,0 +1,22 @@
+{
+  "name": "Test/component2",
+  "type": "library",
+  "description": "Component 2",
+
+  "require": {
+    "php": ">=7.2",
+    "ext-mbstring": "*",
+  },
+
+  "autoload": {
+    "psr-4": {
+      "Test\\Component2\\": "src/"
+    }
+  },
+
+  "extra": { 
+    "branch-alias": {
+      "dev-main": "2.x-dev"
+    }
+  }
+}

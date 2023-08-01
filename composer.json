@@ -1,0 +1,7 @@
+{
+  "name": "project/app",
+  "require": {
+    "component1": "1.0.x", 
+    "component2": "1.5.*" 
+  }
+}
