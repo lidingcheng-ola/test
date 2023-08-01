@@ -1,0 +1,7 @@
+{
+ "name": "test",
+ "require": {
+  "component1":"0.0.1",
+  "component2":"0.0.1"
+ }
+}
