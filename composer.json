@@ -1,5 +1,5 @@
 {
- "name": "test",
+ "name": "test/components",
  "type": "library",
  "require": {
   "test/component1":"0.0.1",
